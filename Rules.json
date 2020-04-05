@@ -1,0 +1,19 @@
+{
+	"name": "自用规则",
+	"version": 1,
+	"ruleList": [{
+		"enable": true,
+		"name": "Keep",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@com.gotokeep.keep.splash.SplashActivity@ID@com.gotokeep.keep:id/layout_skip@0",
+		"packageName": "com.gotokeep.keep"
+	},{
+		"enable": true,
+		"name": "瑞幸咖啡",
+		"author": "Repobor",
+		"operaSize": 2,
+		"operas": "启动广告@1@com.lucky.luckyclient.splash.boot.BootAdvertActivity@ID@com.lucky.luckyclient:id/tv_skip@0$升级提示@1@com.lucky.lib.update.a.a@ID@com.lucky.luckyclient:id/dismiss_btn@0",
+		"packageName": "com.lucky.luckyclient"
+	}]
+}
