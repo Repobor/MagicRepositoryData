@@ -13,7 +13,7 @@
 		"name": "瑞幸咖啡",
 		"author": "Repobor",
 		"operaSize": 2,
-		"operas": "启动广告@1@com.lucky.luckyclient.splash.boot.BootAdvertActivity@ID@com.lucky.luckyclient:id/tv_skip@0$升级提示@1@com.lucky.lib.update.a.a@ID@com.lucky.luckyclient:id/dismiss_btn@0",
+		"operas": "启动广告@1@com.lucky.luckyclient.splash.boot.BootAdvertActivity@ID@com.lucky.luckyclient:id/tv_skip@0$升级提示@1@com.lucky.lib.update.UpdateActivity@ID@com.lucky.luckyclient:id/dismiss_btn@0",
 		"packageName": "com.lucky.luckyclient"
 	}]
 }
