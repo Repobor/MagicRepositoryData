@@ -1,6 +1,6 @@
 {
 	"name": "Repobor的规则",
-	"version": 1.01,
+	"version": 1,
 	"ruleList": [{
 		"enable": true,
 		"name": "Keep",
