@@ -15,5 +15,40 @@
 		"operaSize": 2,
 		"operas": "启动广告@1@com.lucky.luckyclient.splash.boot.BootAdvertActivity@ID@com.lucky.luckyclient:id/tv_skip@0$升级提示@1@com.lucky.lib.update.UpdateActivity@ID@com.lucky.luckyclient:id/dismiss_btn@0",
 		"packageName": "com.lucky.luckyclient"
+	},{
+		"enable": true,
+		"name": "雪球股票",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@com.xueqiu.android.common.splash.SplashActivity@ID@com.xueqiu.android:id/tv_skip@0",
+		"packageName": "com.xueqiu.android"
+	},{
+		"enable": true,
+		"name": "滴滴出行",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "中间推荐@1@android.app.Dialog@ID@com.sdu.didi.psnger:id/popClose@0",
+		"packageName": "com.sdu.didi.psnger"
+	},{
+		"enable": true,
+		"name": "联通手机营业厅",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@com.sinovatech.unicom.basic.ui.activity.WelcomeClient@ID@com.sinovatech.unicom.ui:id/welcome_advertise_close@0",
+		"packageName": "com.sinovatech.unicom.ui"
+	},{
+		"enable": true,
+		"name": "腾讯视频",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@android.widget.FrameLayout@TEXT@跳过@0",
+		"packageName": "com.tencent.qqlive"
+	},{
+		"enable": true,
+		"name": "豆瓣",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@android.widget.FrameLayout@ID@com.douban.frodo:id/skip@0",
+		"packageName": "com.douban.frodo"
 	}]
 }
