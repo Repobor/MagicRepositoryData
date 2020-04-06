@@ -64,5 +64,12 @@
 		"operaSize": 1,
 		"operas": "启动广告@1@com.xunmeng.pinduoduo.ui.activity.MainFrameActivity@TEXT@跳过@0",
 		"packageName": "com.xunmeng.pinduoduo"
+	},{
+		"enable": true,
+		"name": "淘宝",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@com.taobao.tao.welcome.Welcome@TEXT@跳过@0",
+		"packageName": "com.taobao.taobao"
 	}]
 }
