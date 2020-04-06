@@ -19,8 +19,8 @@
 		"enable": true,
 		"name": "雪球股票",
 		"author": "Repobor",
-		"operaSize": 1,
-		"operas": "启动广告@1@com.xueqiu.android.common.splash.SplashActivity@ID@com.xueqiu.android:id/tv_skip@0",
+		"operaSize": 2,
+		"operas": "启动广告@1@com.xueqiu.android.common.splash.SplashActivity@ID@com.xueqiu.android:id/tv_skip@0$升级提示@1@com.xueqiu.android.common.UpdateDialogActivity@ID@com.xueqiu.android:id/image_cancel@0",
 		"packageName": "com.xueqiu.android"
 	},{
 		"enable": true,
