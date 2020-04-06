@@ -8,4 +8,5 @@
 在仓库管理中添加[规则链接](https://gitee.com/repobor/MagicRepositoryData/raw/master/Rules.json)即可
 
 #### 已适配应用
-Keep 瑞幸咖啡 雪球股票 滴滴出行 联通手机营业厅 腾讯视频 豆瓣 拼多多 星火英语
+Keep 瑞幸咖啡 雪球股票 滴滴出行 联通手机营业厅 腾讯视频 豆瓣 星火英语
+拼多多 手机淘宝 (未验证)
