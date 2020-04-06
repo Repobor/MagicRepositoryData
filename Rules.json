@@ -50,5 +50,12 @@
 		"operaSize": 1,
 		"operas": "启动广告@1@android.widget.FrameLayout@ID@com.douban.frodo:id/skip@0",
 		"packageName": "com.douban.frodo"
+	},{
+		"enable": true,
+		"name": "星火英语",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@android.widget.FrameLayout@ID@tuoyan.com.xinghuo_daying:id/tv_go_on@0",
+		"packageName": "tuoyan.com.xinghuo_daying"
 	}]
 }
