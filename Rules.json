@@ -61,8 +61,8 @@
 		"enable": true,
 		"name": "拼多多",
 		"author": "Repobor",
-		"operaSize": 1,
-		"operas": "启动广告@1@com.xunmeng.pinduoduo.ui.activity.MainFrameActivity@TEXT@跳过@0",
+		"operaSize": 2,
+		"operas": "启动广告@1@com.xunmeng.pinduoduo.ui.activity.MainFrameActivity@TEXT@跳过@0$未登录跳过@1@com.xunmeng.pinduoduo.login.LoginActivity@TEXT@跳过@0",
 		"packageName": "com.xunmeng.pinduoduo"
 	},{
 		"enable": true,
@@ -71,5 +71,12 @@
 		"operaSize": 1,
 		"operas": "启动广告@1@com.taobao.tao.welcome.Welcome@TEXT@跳过@0",
 		"packageName": "com.taobao.taobao"
+	},{
+		"enable": true,
+		"name": "网易有道词典",
+		"author": "Repobor",
+		"operaSize": 2,
+		"operas": "启动广告@1@com.youdao.dict.activity.DictSplashActivity@ID@com.youdao.dict:id/skin_text@0$推荐VIP@1@com.youdao.dict.vip.widget.VipBigPresentDailog@ID@com.youdao.dict:id/close@0",
+		"packageName": "com.youdao.dict"
 	}]
 }
