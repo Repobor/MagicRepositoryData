@@ -92,5 +92,12 @@
 		"operaSize": 1,
 		"operas": "启动广告@1@com.mipay.wallet.ui.MipayEntryActivity@TEXT@跳过@0",
 		"packageName": "com.mipay.wallet"
+	},{
+		"enable": true,
+		"name": "电信营业厅",
+		"author": "Repobor",
+		"operaSize": 2,
+		"operas": "启动广告@1@com.ct.client.SplashActivity@ID@com.ct.client:id/bt_skip@0$中间推荐@1@android.app.Dialog@ID@com.ct.client:id/close@0",
+		"packageName": "com.ct.client"
 	}]
 }
